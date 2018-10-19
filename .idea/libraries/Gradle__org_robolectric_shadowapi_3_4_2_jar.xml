@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:shadowapi:3.4.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadowapi/3.4.2/c49993ea80f9df979d47f366248e6cfbcc732569/shadowapi-3.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadowapi/3.4.2/5dd5508fb594efa775b3aac53ae6eae29a696865/shadowapi-3.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
