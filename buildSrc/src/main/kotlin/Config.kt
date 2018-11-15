@@ -1,6 +1,6 @@
 object Versions {
     val kotlin = "1.2.61"
-    val androidPlugin = "3.3.0-alpha13"
+    val androidPlugin = "3.4.0-alpha03"
 
     val androidxCore = "1.0.0-rc02"
     val archCore = "2.0.0-beta01"
