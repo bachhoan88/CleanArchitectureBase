@@ -21,6 +21,8 @@ android {
         getByName(BuildType.release) {
             isMinifyEnabled = BuildType.minifyRelease
             proguardFiles(BuildType.proguardRelease)
+
+            isCrunchPngs = false
         }
 
         getByName(BuildType.debug) {
